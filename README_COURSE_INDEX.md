@@ -27,7 +27,7 @@
   - ### SLU11 - String & File Handling
 
 ## Week 07
-  - SLU12 - Linear Algebra & Numpy - Part 1 
+  - ### SLU12 - Linear Algebra & Numpy - Part 1 
 
 ## Week 08
   - ### SLU13 - Linear Algebra & NumPy, Part 2
